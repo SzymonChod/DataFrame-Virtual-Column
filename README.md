@@ -17,7 +17,7 @@ The expressions are handeled, so whitespaces shouldn't matter for the end result
 ## Project Structure
 The function is located in solution.py file and unit tests are located in test_virtual_column.py.
 
-##Requirements
+## Requirements
 The fuction uses pandas and pytest for testing.
 
 
